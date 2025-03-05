@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Se quiser saber mais sobre mim ou entrar em contato, acesse os links abaixo!
  
 <div> 
   <a href="https://www.youtube.com/@Neguiim244" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
